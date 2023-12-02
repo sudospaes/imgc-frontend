@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root * {
+    transition: .2s ease;
+}
+
+.no-transition * {
+    transition: none !important;
+}
+
+.theme-icon {
+    animation: rotate .5s ease;
+}
+
+@keyframes rotate {
+    to {
+        transform: rotate(-360deg);
+    }
+}
