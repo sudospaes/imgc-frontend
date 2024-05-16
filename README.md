@@ -1,4 +1,4 @@
-## image compressor
+## image Compressor - FrontEnd
 
 **Online Image Compressor UI with ReactJS, Ant Design, Tailwind CSS**
 
