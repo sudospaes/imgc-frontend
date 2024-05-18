@@ -6,4 +6,5 @@
 
 ![](preview.png)
 
-https://github.com/hctilg/image_compressor/assets/98208009/a040b7f7-9423-4155-96f6-eb58eee8370d
+
+https://github.com/sudospaes/imgc-frontend/assets/79229394/14981251-f6a4-4551-a858-6dd36fbe4cde
